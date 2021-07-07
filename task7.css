@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-size:inherit;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/273/317/69/lines-dark-blue-abstract-wallpaper-preview.jpg");
+    background-repeat: repeat;
+    box-sizing: border-box;
+    
+}
+
+body{
+   
+}
+h1{
+    text-align: center;
+    height: 5cm;
+    color:white;
+    text-shadow: 2px 2px lightgray;
+}
+
+
+.timer{
+    text-align: center;
+    height: 5cm;
+    color:white;
+    text-shadow: 2px 2px black;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+
+    
+}
